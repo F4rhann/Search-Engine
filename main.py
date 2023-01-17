@@ -57,4 +57,4 @@ while True:
         print("History:",*history, sep=", ")
         history.append(search)
     else:
-        print("Invalid search! You can only search google, mail, discord, instagram, history and youtube.")
+        print("Invalid search! You can only search google, mail, discord, instagram, history, twitter and twitch.")
